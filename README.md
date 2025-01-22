@@ -2,6 +2,8 @@
 
 **Vinta App** is the ultimate solution for managing your **Vinted business** with powerful analytics, seamless accounting tools, and intuitive dashboards. Optimize your business operations, track your sales, and stay on top of your performance with **Vinta**.
 
+![Home Page Screenshot](vinted_accounting_vinta.png)
+
 ---
 
 ## 📊 **Powerful Analytics Dashboard**
@@ -11,7 +13,7 @@ Gain a 360° view of your Vinted business. With **Vinta App**, you can:
 - **Inventory Management**: Monitor stock levels and live listings effortlessly.
 - **Tax Compliance**: Export CSV reports for hassle-free HMRC returns.
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](vinted_accounting_vinta_dashboard_page.png)
 
 ---
 
@@ -21,7 +23,7 @@ Manage your orders like a pro with **Vinted Accounting** tools:
 - **SKU Management**: Organize and streamline your inventory.
 - **Profit Analysis**: Get detailed insights into your business profitability.
 
-![Orders Management Screenshot](orders-screenshot.png)
+![Orders Management Screenshot](vinted_accounting_vinta_orders_page.png)
 
 ---
 
@@ -49,7 +51,7 @@ Start scaling your **Vinted business** with our affordable plans:
 ## 🚀 **Ready to Transform Your Vinted Business?**
 Join thousands of sellers who trust **Vinta App** to optimize their operations.  
 
-### 👉 [Start Free Trial Now](https://www.vinta.app)
+### 👉 [Join Now](https://www.vinta.app)
 
 ---
 
